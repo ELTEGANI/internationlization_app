@@ -1,7 +1,0 @@
-{
-    "language":"English",
-    "@language":{
-      "description":"the current language"
-    },
-    "helloWorld":"Hello World"
-}
